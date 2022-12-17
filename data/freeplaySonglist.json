@@ -1,0 +1,54 @@
+{
+    "addOGSongs": false,
+    "songs": [
+        {
+            "name": "Tutorial",
+            "icon": "gf",
+            "color": "#9271FD"
+        }, {
+            "name": "Tutorial (Beta Mix)",
+            "icon": "gf-lady",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (Beta Mix)",
+            "icon": "dad",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (Extended Version)",
+            "icon": "dad",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (In-Game Version)",
+            "icon": "dad",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (Itch.io Build)",
+            "icon": "dad-scatman",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (Newgrounds Build)",
+            "icon": "dad",
+            "color": "#9271FD"
+        }, {
+            "name": "Bopeebo (Short Version)",
+            "icon": "dad",
+            "color": "#9271FD"
+        }, {
+            "name": "Fresh",
+            "icon": "dad-sus",
+            "color": "#9271FD"
+        }, {
+            "name": "Fresh (Alternate Version)",
+            "icon": "spooky-bomberman",
+            "color": "#9271FD"
+        }, {
+            "name": "Fresh (In-Game Version)",
+            "icon": "dad-chungus",
+            "color": "#9271FD"
+        }, {
+            "name": "Fresh (Itch.io Build)",
+            "icon": "dad-bus",
+            "color": "#9271FD"
+        }
+    ]
+}

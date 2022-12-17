@@ -1,0 +1,5 @@
+- https://www.youtube.com/playlist?list=PLL0CQjrcN8D2J61Jjy5PoP1KuOxZqUyFp
+
+- make the accuracy and miss count invisible
+- on "newgrounds builds" add notesplashes for when you hit sicks
+- on "fresh in-game version" make good rating use gold sprite
